@@ -1,0 +1,5 @@
+site_name: Spanish Oak Ward Elder's Quorum Documents
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
